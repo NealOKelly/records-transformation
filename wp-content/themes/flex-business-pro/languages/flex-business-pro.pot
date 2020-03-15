@@ -1,0 +1,1331 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-18 22:51+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:103
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:110 functions.php:118 functions.php:126 functions.php:134
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:153
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:158
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:162 functions.php:202
+msgctxt "Oxygen: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:166
+msgctxt "Raleway: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:170
+msgctxt "Poppins: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:174
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:178
+msgctxt "Lato: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:182
+msgctxt "Ubuntu: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:186
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:190
+msgctxt "Lora: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:194
+msgctxt "Titillium Web: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:198
+msgctxt "Muli: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:206
+msgctxt "Nunito Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:210
+msgctxt "Maven Pro: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:214
+msgctxt "Cairo: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:218
+msgctxt "Philosopher: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:12 searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search ..."
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/custom-header.php:34
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr ""
+
+#: inc/demo-import.php:15
+msgid "Flex Demo"
+msgstr ""
+
+#: inc/demo-import.php:20
+msgid ""
+"Please wait for a few minutes, do not close the window or refresh the page "
+"until the data is imported."
+msgstr ""
+
+#: inc/extras.php:166 inc/extras.php:200
+msgid "Roboto, sans-serif"
+msgstr ""
+
+#: inc/extras.php:167 inc/extras.php:198
+msgid "Raleway, sans-serif"
+msgstr ""
+
+#: inc/extras.php:168 inc/extras.php:199
+msgid "Poppins, sans-serif"
+msgstr ""
+
+#: inc/extras.php:169 inc/extras.php:197
+msgid "Montserrat, sans-serif"
+msgstr ""
+
+#: inc/extras.php:170 inc/extras.php:201
+msgid "Open Sans, sans-serif"
+msgstr ""
+
+#: inc/extras.php:171 inc/extras.php:202
+msgid "Lato, sans-serif"
+msgstr ""
+
+#: inc/extras.php:172 inc/extras.php:203
+msgid "Ubuntu, sans-serif"
+msgstr ""
+
+#: inc/extras.php:173 inc/extras.php:204
+msgid "Playfair Display, serif"
+msgstr ""
+
+#: inc/extras.php:174 inc/extras.php:205
+msgid "Lora, serif"
+msgstr ""
+
+#: inc/extras.php:175 inc/extras.php:206
+msgid "Titillium Web, sans-serif"
+msgstr ""
+
+#: inc/extras.php:176 inc/extras.php:207
+msgid "Muli, sans-serif"
+msgstr ""
+
+#: inc/extras.php:177 inc/extras.php:208
+msgid "Oxygen, sans-serif"
+msgstr ""
+
+#: inc/extras.php:178 inc/extras.php:209
+msgid "Nunito Sans, sans-serif"
+msgstr ""
+
+#: inc/extras.php:179 inc/extras.php:210
+msgid "Maven Pro, sans-serif"
+msgstr ""
+
+#: inc/extras.php:180 inc/extras.php:211
+msgid "Cairo, serif"
+msgstr ""
+
+#: inc/extras.php:181 inc/extras.php:212
+msgid "Philosopher, sans-serif"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:57
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/default.php:22
+msgid "info@creativthemes.com"
+msgstr ""
+
+#: inc/customizer/default.php:23
+msgid "+1-541-754-3010"
+msgstr ""
+
+#: inc/customizer/default.php:24
+msgid "London, UK"
+msgstr ""
+
+#: inc/customizer/default.php:35
+msgid "Our Services"
+msgstr ""
+
+#: inc/customizer/default.php:42
+msgid "Team Members"
+msgstr ""
+
+#: inc/customizer/default.php:49
+#: inc/customizer/home-sections/additional-info.php:13
+msgid "Our Features"
+msgstr ""
+
+#: inc/customizer/default.php:62
+msgid "Need More features?"
+msgstr ""
+
+#: inc/customizer/default.php:63
+msgid "Get Accesss To All Features of Flex"
+msgstr ""
+
+#: inc/customizer/default.php:64
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/customizer/default.php:69
+msgid "Amazing Projects"
+msgstr ""
+
+#: inc/customizer/default.php:85
+msgid "Latest News"
+msgstr ""
+
+#: inc/customizer/default.php:90
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/default.php:95
+msgid "Theme Flex Business Pro by Creativ Themes."
+msgstr ""
+
+#: inc/customizer/home-section.php:13
+msgid "Front Page Sections"
+msgstr ""
+
+#: inc/customizer/theme-section.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-section.php:21
+msgid "General Option"
+msgstr ""
+
+#: inc/customizer/theme-section.php:37
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-section.php:60
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/theme-section.php:73
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-section.php:74
+msgid "in words"
+msgstr ""
+
+#: inc/customizer/theme-section.php:83
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/customizer/theme-section.php:99
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-section.php:112
+msgid "Header Image For Inner Pages"
+msgstr ""
+
+#: inc/customizer/theme-section.php:128
+msgid "Header Image For Archive Page"
+msgstr ""
+
+#: inc/customizer/theme-section.php:129
+msgid ""
+"Choose Header Image of your choice for Archive Pages. Recommended size for "
+"this image is 1920px by 500px."
+msgstr ""
+
+#: inc/customizer/theme-section.php:147
+msgid "Header Image For Search Page"
+msgstr ""
+
+#: inc/customizer/theme-section.php:148
+msgid ""
+"Choose Header Image of your choice for Search Page. Recommended size for "
+"this image is 1920px by 500px"
+msgstr ""
+
+#: inc/customizer/theme-section.php:166
+msgid "Header Image For 404 Page"
+msgstr ""
+
+#: inc/customizer/theme-section.php:167
+msgid ""
+"Choose Header Image of your choice for 404 Page. Recommended size for this "
+"image is 1920px by 500px"
+msgstr ""
+
+#: inc/customizer/theme-section.php:178
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/theme-section.php:192
+msgid "Choose Heading Font Family"
+msgstr ""
+
+#: inc/customizer/theme-section.php:209
+msgid "Choose Body Font Family"
+msgstr ""
+
+#: inc/customizer/theme-section.php:224
+msgid "Custom Theme Color for Blue"
+msgstr ""
+
+#: inc/customizer/topbar.php:8
+msgid "Header Top"
+msgstr ""
+
+#: inc/customizer/topbar.php:17
+msgid "Contact Info"
+msgstr ""
+
+#: inc/customizer/topbar.php:35
+msgid "Show Contact Info"
+msgstr ""
+
+#: inc/customizer/topbar.php:50
+msgid "Location"
+msgstr ""
+
+#: inc/customizer/topbar.php:51
+msgid "Enter Location."
+msgstr ""
+
+#: inc/customizer/topbar.php:66
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/topbar.php:67
+msgid "Enter phone number."
+msgstr ""
+
+#: inc/customizer/topbar.php:85
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/topbar.php:86
+msgid "Enter valid email address."
+msgstr ""
+
+#: inc/customizer/topbar.php:96 inc/customizer/topbar.php:130
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/topbar.php:114
+msgid "Show Social Links"
+msgstr ""
+
+#: inc/customizer/topbar.php:131
+msgid "Enter full URL."
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:31
+msgid "Disable Additional Information Section"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:50
+#: inc/customizer/home-sections/blog.php:49
+#: inc/customizer/home-sections/gallery.php:50
+#: inc/customizer/home-sections/services.php:50
+#: inc/customizer/home-sections/team.php:50
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:70
+#: inc/customizer/home-sections/gallery.php:70
+#: inc/customizer/home-sections/services.php:70
+#: inc/customizer/home-sections/team.php:70
+msgid "Column Per Row"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:71
+#: inc/customizer/home-sections/gallery.php:71
+#: inc/customizer/home-sections/services.php:71
+#: inc/customizer/home-sections/team.php:71
+msgid "Save & Refresh the customizer to see its effect. Maximum is 4"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:95
+msgid "Number Of Items"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:96
+#: inc/customizer/home-sections/gallery.php:96
+#: inc/customizer/home-sections/services.php:96
+#: inc/customizer/home-sections/slider.php:52
+#: inc/customizer/home-sections/team.php:96
+msgid "Save & Refresh the customizer to see its effect. Maximum is 12."
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:120
+#: inc/customizer/home-sections/services.php:120
+#: inc/customizer/home-sections/slider.php:76
+#: inc/customizer/home-sections/team.php:120
+msgid "Content Type"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:126
+#: inc/customizer/home-sections/gallery.php:126
+#: inc/customizer/home-sections/services.php:126
+#: inc/customizer/home-sections/slider.php:82
+#: inc/customizer/home-sections/team.php:126
+#: inc/customizer/home-sections/testimonial.php:104
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:127
+#: inc/customizer/home-sections/gallery.php:127
+#: inc/customizer/home-sections/services.php:127
+#: inc/customizer/home-sections/slider.php:83
+#: inc/customizer/home-sections/team.php:127
+#: inc/customizer/home-sections/testimonial.php:105
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:147
+#, php-format
+msgid "Select Icon #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:148
+#: inc/customizer/home-sections/counter.php:102
+#, php-format
+msgid ""
+"Please input icon as eg: fa fa-archive. Find Font-awesome icons %1$shere%2$s"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:167
+#: inc/customizer/home-sections/gallery.php:147
+#: inc/customizer/home-sections/services.php:147
+#: inc/customizer/home-sections/slider.php:103
+#: inc/customizer/home-sections/team.php:147
+#, php-format
+msgid "Select Page #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:185
+#: inc/customizer/home-sections/gallery.php:165
+#: inc/customizer/home-sections/services.php:165
+#: inc/customizer/home-sections/slider.php:121
+#: inc/customizer/home-sections/testimonial.php:143
+#, php-format
+msgid "Custom Title #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:203
+#, php-format
+msgid "Read More Button Text #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:221
+#: inc/customizer/home-sections/slider.php:195
+#, php-format
+msgid "Custom Url #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/additional-info.php:239
+#: inc/customizer/home-sections/services.php:203
+#: inc/customizer/home-sections/slider.php:159
+#: inc/customizer/home-sections/testimonial.php:199
+#, php-format
+msgid "Custom Content #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/blog.php:13
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/home-sections/blog.php:31
+msgid "Disable Blog Section"
+msgstr ""
+
+#: inc/customizer/home-sections/blog.php:68
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/home-sections/blog.php:87
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/customizer/home-sections/blog.php:88
+msgid "Maximum number of post to show is 12."
+msgstr ""
+
+#: inc/customizer/home-sections/counter.php:13
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer/home-sections/counter.php:32
+msgid "Disable Counter section"
+msgstr ""
+
+#: inc/customizer/home-sections/counter.php:51
+#: inc/customizer/home-sections/cta.php:51
+#: inc/customizer/home-sections/testimonial.php:52
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/home-sections/counter.php:72
+msgid "Number Of Counter"
+msgstr ""
+
+#: inc/customizer/home-sections/counter.php:73
+msgid "Save & Refresh the customizer to see its effect."
+msgstr ""
+
+#: inc/customizer/home-sections/counter.php:101
+#, php-format
+msgid "Counter Icon #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/counter.php:120
+#, php-format
+msgid "Counter Value #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/counter.php:139
+#, php-format
+msgid "Counter Title #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/cta.php:13
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer/home-sections/cta.php:31
+msgid "Disable Call to action section"
+msgstr ""
+
+#: inc/customizer/home-sections/cta.php:72
+msgid "CTA Small Font Description"
+msgstr ""
+
+#: inc/customizer/home-sections/cta.php:92
+msgid "CTA Big Font Description"
+msgstr ""
+
+#: inc/customizer/home-sections/cta.php:111
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer/home-sections/cta.php:130
+msgid "Button Url"
+msgstr ""
+
+#: inc/customizer/home-sections/gallery.php:13
+msgid "Gallery Section"
+msgstr ""
+
+#: inc/customizer/home-sections/gallery.php:31
+msgid "Disable Gallery Section"
+msgstr ""
+
+#: inc/customizer/home-sections/gallery.php:95
+msgid "Number Of Gallery"
+msgstr ""
+
+#: inc/customizer/home-sections/gallery.php:120
+msgid "Gallery Type"
+msgstr ""
+
+#: inc/customizer/home-sections/gallery.php:184
+#: inc/customizer/home-sections/services.php:184
+#: inc/customizer/home-sections/slider.php:140
+#: inc/customizer/home-sections/testimonial.php:180
+#, php-format
+msgid "Custom Image #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/services.php:13
+msgid "Featured Services"
+msgstr ""
+
+#: inc/customizer/home-sections/services.php:31
+msgid "Disable Services Section"
+msgstr ""
+
+#: inc/customizer/home-sections/services.php:95
+msgid "Number Of Services"
+msgstr ""
+
+#: inc/customizer/home-sections/slider.php:13
+msgid "Featured Slider"
+msgstr ""
+
+#: inc/customizer/home-sections/slider.php:32
+#: inc/customizer/home-sections/testimonial.php:32
+msgid "Disable Slider Section"
+msgstr ""
+
+#: inc/customizer/home-sections/slider.php:51
+msgid "Number Of Slides"
+msgstr ""
+
+#: inc/customizer/home-sections/slider.php:177
+#, php-format
+msgid "Custom Button Text #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/team.php:13
+msgid "Featured Teams"
+msgstr ""
+
+#: inc/customizer/home-sections/team.php:31
+msgid "Disable Team Section"
+msgstr ""
+
+#: inc/customizer/home-sections/team.php:95
+msgid "Number Of Teams"
+msgstr ""
+
+#: inc/customizer/home-sections/team.php:166
+#, php-format
+msgid "Member Image #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/team.php:185
+#, php-format
+msgid "Member Name #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/team.php:203
+#, php-format
+msgid "Member Position #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/testimonial.php:13
+msgid "Testimonial Slider"
+msgstr ""
+
+#: inc/customizer/home-sections/testimonial.php:73
+msgid "Number Of Testimonial"
+msgstr ""
+
+#: inc/customizer/home-sections/testimonial.php:74
+msgid "Save & Refresh the customizer to see its effect. Maximum is 8."
+msgstr ""
+
+#: inc/customizer/home-sections/testimonial.php:98
+msgid "Testimonial Type"
+msgstr ""
+
+#: inc/customizer/home-sections/testimonial.php:125
+#, php-format
+msgid "Testimonial Page #%1$s"
+msgstr ""
+
+#: inc/customizer/home-sections/testimonial.php:161
+#, php-format
+msgid "Custom Position #%1$s"
+msgstr ""
+
+#: inc/hook/basic.php:20
+msgid "Home"
+msgstr ""
+
+#: inc/hook/basic.php:51
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/hook/basic.php:110
+msgid "Add New"
+msgstr ""
+
+#: inc/hook/custom.php:239
+msgid "Blog"
+msgstr ""
+
+#: inc/hook/custom.php:253
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/hook/custom.php:257
+msgid "Error 404"
+msgstr ""
+
+#: inc/hook/structure.php:48
+msgid "Skip to content"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin/tgm-hook.php:62
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgm-plugin/tgm-hook.php:68
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/updater/theme-updater.php:31
+msgid "Theme License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:32
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/updater/theme-updater.php:33
+msgid "License Key"
+msgstr ""
+
+#: inc/updater/theme-updater.php:34
+msgid "License Action"
+msgstr ""
+
+#: inc/updater/theme-updater.php:35
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:36
+msgid "Activate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:37 inc/updater/theme-updater.php:49
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/updater/theme-updater.php:38
+msgid "Renew?"
+msgstr ""
+
+#: inc/updater/theme-updater.php:39
+msgid "unlimited"
+msgstr ""
+
+#: inc/updater/theme-updater.php:40
+msgid "License key is active."
+msgstr ""
+
+#: inc/updater/theme-updater.php:41
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:42
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/updater/theme-updater.php:43
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:44
+msgid "License key has expired."
+msgstr ""
+
+#: inc/updater/theme-updater.php:45
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/updater/theme-updater.php:46
+msgid "License is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:47
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/updater/theme-updater.php:48
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:50
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/updater/theme-updater.php:51
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4$s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:17
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:30 template-parts/content-single.php:29
+#, php-format
+msgid "Edit %s"
+msgstr ""
