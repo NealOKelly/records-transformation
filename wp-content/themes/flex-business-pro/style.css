@@ -3391,6 +3391,22 @@ body.search.left-sidebar .blog-posts-wrapper .col-3 article .post-item .entry-co
     font-family: 'Philosopher', sans-serif;
 }
 
+
+@font-face {
+  font-family: Noto Sans;
+  src: url(https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr6zRAW_0.woff2);
+}
+
+.header-font-16 h1,
+.header-font-16 h2,
+.header-font-16 h3,
+.header-font-16 h4,
+.header-font-16 h5,
+.header-font-16 h6 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
 .body-font-1 body,
 .body-font-1 .site-title,
 .body-font-1 #colophon .widget-title, 
@@ -3495,6 +3511,14 @@ body.search.left-sidebar .blog-posts-wrapper .col-3 article .post-item .entry-co
 .body-font-15 #colophon .widgettitle {
     font-family: 'Philosopher', sans-serif;
 }
+
+.body-font-16 body,
+.body-font-16 .site-title,
+.body-font-16 #colophon .widget-title, 
+.body-font-16 #colophon .widgettitle {
+    font-family: 'Noto Sans', sans-serif;
+}
+
 /*--------------------------------------------------------------
 #                   Footer
 --------------------------------------------------------------*/

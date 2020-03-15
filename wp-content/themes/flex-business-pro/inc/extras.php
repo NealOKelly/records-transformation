@@ -187,6 +187,7 @@ if ( ! function_exists( 'flex_business_pro_header_typography_options' ) ) :
             'header-font-13'   => esc_html__( 'Maven Pro, sans-serif', 'flex-business-pro' ),
             'header-font-14'   => esc_html__( 'Cairo, serif', 'flex-business-pro' ),
             'header-font-15'   => esc_html__( 'Philosopher, sans-serif', 'flex-business-pro' ),
+			'header-font-16'   => esc_html__( 'Noto Sans, sans-serif', 'flex-business-pro' ),
         );
         $output = apply_filters( 'flex_business_pro_header_typography_options', $choices );
         return $output;
@@ -218,6 +219,7 @@ if ( ! function_exists( 'flex_business_pro_body_typography_options' ) ) :
             'body-font-13'   => esc_html__( 'Maven Pro, sans-serif', 'flex-business-pro' ),
             'body-font-14'   => esc_html__( 'Cairo, serif', 'flex-business-pro' ),
             'body-font-15'   => esc_html__( 'Philosopher, sans-serif', 'flex-business-pro' ),
+			'body-font-16'   => esc_html__( 'Noto Sans, sans-serif', 'flex-business-pro' ),
         );
         $output = apply_filters( 'flex_business_pro_body_typography_options', $choices );
         return $output;
